@@ -113,7 +113,7 @@ function sendEmail(email, code,) {
   Email.send({
     Host: "smtp.gmail.com",
     Username: "deneme511deneme@gmail.com",
-    Password: "DMZ-fmU-eBS-8y9",
+    Password: "password",
     To: `${email}`,
     From: "deneme511deneme@gmail.com",
     Subject: "Tek Kullanımlık Kod",
